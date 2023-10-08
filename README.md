@@ -22,3 +22,13 @@ It's a training project that allowed me to reinforce my React and Tailwind CSS s
    $ npm run dev
   ```
    
+## Sources
+This app was created following a tutorial by [@adrianhajdin]([https://www.eericon.github.io/post/timer-android](https://github.com/adrianhajdin)https://github.com/adrianhajdin)
+
+## License
+This project is licensed under the MIT License.
+
+## Contact
+If you have any questions or suggestions, feel free to contact me:
+
+Email: alirayane14@gmail.com
